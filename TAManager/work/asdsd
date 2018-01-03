@@ -1,0 +1,13 @@
+
+{
+    "startHour":"9",
+    "endHour":"20",
+    "undergrad_tas":[
+        {
+            "name":"asd",
+            "email":"dd"
+        }
+    ],
+    "officeHours":[
+    ]
+}

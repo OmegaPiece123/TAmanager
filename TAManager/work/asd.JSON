@@ -1,0 +1,18 @@
+
+{
+    "startHour":"9",
+    "endHour":"20",
+    "undergrad_tas":[
+        {
+            "name":"asdasd",
+            "email":"asdsad"
+        }
+    ],
+    "officeHours":[
+        {
+            "day":"MONDAY",
+            "time":"11_30am",
+            "name":"asdasd"
+        }
+    ]
+}
